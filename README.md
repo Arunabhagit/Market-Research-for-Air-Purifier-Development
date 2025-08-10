@@ -348,3 +348,9 @@ Bindusree A.R., M.C. Sarath Chandran [ https://doi.org/10.1016/B978-0-443-23788-
 - https://www.indiaspend.com/80-of-indians-polled-in-17-cities-believe-air-pollution-affects-quality-of-life-new-study
 
 - https://www.drishtiias.com/daily-updates/daily-news-analysis/indias-progress-under-ncap?utm_source
+
+  # Acknowledgement
+
+  I would like to express my sincere gratitude to Codebasics and Dataful for conducting this comprehensive air quality analysis project. Their dedication to data-driven research and insightful methodologies provided the foundation and valuable resources necessary to understand the regional variations in air pollution across India. The guidance and quality of data shared by these organizations greatly enhanced the accuracy and depth of this study. I appreciate their efforts in promoting awareness about air quality and advancing environmental health initiatives. This project would not have been possible without their support and expertise.
+
+
