@@ -21,6 +21,7 @@ The objective of this project is to evaluate the market potential for a new air 
 # Dataset 
 
 The dataset is provided from DataFul
+
 **AQI(2022-2025).csv** : Raw AQI data for Indian states
 
 **Health related consequences.csv**  : Survey data on public health perception
@@ -28,4 +29,23 @@ The dataset is provided from DataFul
 **Population data.csv** : State wise population data
 
 **Vehicle data.csv** : State wise all types of vehicle data  
-│
+
+The Additional Data got from Various Websites , blogs and reports.
+
+# Tools Used
+
+**Jupyter Notebook**
+
+• Version : JupyterLab 4.0 / Notebook 7.1 (Latest release in 2025)
+
+• Python Version : Python 3.11
+
+• Description : Jupyter Notebook provides an interactive environment for writing and running code, visualizing data, and documenting analysis.
+
+**Power BI Desktop**
+
+• Version : Power BI Desktop May 2025 Update (Version 2.128.x)
+
+Description : Power BI is a business analytics tool that enables data transformation, modeling, and rich interactive visualizations
+
+
