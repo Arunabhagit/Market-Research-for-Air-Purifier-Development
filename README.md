@@ -18,3 +18,14 @@ The objective of this project is to evaluate the market potential for a new air 
 
 - Provide actionable insights through an interactive dashboard to guide product design, pricing, and marketing strategies for optimal market fit.
 
+# Dataset 
+
+The dataset is provided from DataFul
+**AQI(2022-2025).csv** : Raw AQI data for Indian states
+
+**Health related consequences.csv**  : Survey data on public health perception
+
+**Population data.csv** : State wise population data
+
+**Vehicle data.csv** : State wise all types of vehicle data  
+│
