@@ -50,7 +50,7 @@ Description : Power BI is a business analytics tool that enables data transforma
 
 # Analysis and Insights
 
-1. **High Pollution Concentration in North & East India**
+**1. High Pollution Concentration in North & East India**
    
 The analysis of the past six months identifies Assam, Delhi, Bihar, and Haryana as the worst-affected states in terms of air quality.
 
@@ -88,7 +88,7 @@ Mysuru, Karnataka
 
 Coonoor, Tamil Nadu
 
-2. **Clean Air Zones in Southern India**
+**2. Clean Air Zones in Southern India**
    
 Clean air zones are predominantly located in Tamil Nadu and Karnataka, reflecting a more favorable environmental profile.
 
@@ -110,7 +110,7 @@ SO₂, NO₂, NH₃: Minimal presence, currently lower priority pollutants.
 
 CO: Prominent only in Karnataka.
 
-3. **High-Risk Season (November – January)**
+**3. High-Risk Season (November – January)**
    
 Seasonal patterns indicate that winter months pose the greatest risk to air quality:
 
@@ -120,7 +120,7 @@ December: Highest average AQI (339) despite appearing only once — indicating s
 
 February: AQI drops sharply (average 98), signaling the onset of seasonal improvement.
 
-4. **Weekend AQI Patterns**
+**4. Weekend AQI Patterns**
    
 The data reveals variations in AQI between weekdays and weekends:
 
@@ -134,7 +134,7 @@ Worsening on Weekends:
 
 Ahmedabad, Mumbai: Slight AQI increase, likely due to leisure traffic, open burning, or industrial/port operations.
 
-5. **Bengaluru Air Quality**
+**5. Bengaluru Air Quality**
    
 Bengaluru continues to maintain its position among India’s cleaner metros:
 
@@ -144,7 +144,7 @@ Moderate air quality on 13 days (21%).
 
 Summer months particularly favorable.
 
-6. **Electric Vehicle (EV) States & AQI**
+**6. Electric Vehicle (EV) States & AQI**
    
 States with high EV adoption report better AQI performance:
 
@@ -158,7 +158,7 @@ Note:
 
 While EV adoption shows correlation with improved AQI (p < 0.05), other pollution sources such as industry and construction still play dominant roles.
 
-7. **Health Impact by Age Group**
+**7. Health Impact by Age Group**
    
 Children (0–14 years):
 
@@ -174,7 +174,7 @@ Significant risk from asthma, COPD, and pneumonia.
 
 Affected states: Karnataka, Kerala, Odisha, Uttarakhand.
 
-8. **Market Insights**
+**8. Market Insights**
    
 High-Risk Markets (High AQI + High Population):
 
@@ -192,7 +192,7 @@ Example: Maharashtra — highest population with moderate AQI (99.17).
 
 Outliers: Himachal Pradesh (AQI 166.45, population 779) and Tripura (AQI 139.9, population 1724).
 
-9. **Public Awareness**
+**9. Public Awareness**
     
 General awareness of air pollution is high.
 
@@ -200,7 +200,7 @@ However, technical understanding of AQI, PM2.5, and PM10 remains low, especially
 
 While many adopt basic protective measures, translating AQI data into actionable decisions remains limited.
 
-10. **State-Wise Air Quality Trends**
+**10. State-Wise Air Quality Trends**
     
 Improving States:
 
