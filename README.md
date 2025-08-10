@@ -225,6 +225,7 @@ Northeast India: Data sparse and variable — opportunity for CSR-driven monitor
 # Recommendation and Decision 
 
 **North India**
+
 States Covered: Delhi, Haryana, Uttar Pradesh, Punjab, Bihar, Himachal Pradesh
 AQI Range: 140–207 (Very High Pollution Levels)
 
@@ -241,6 +242,7 @@ Safety features including Child Lock and Auto Mode for family protection.
 High Clean Air Delivery Rate (CADR) designed for large urban rooms.
 
 **South India**
+
 States Covered: Karnataka, Tamil Nadu, Kerala, Telangana, Andhra Pradesh
 AQI Range: Mostly below 100 (Moderate to Clean Air)
 
