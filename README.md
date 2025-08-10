@@ -222,3 +222,127 @@ South India: Slight deterioration in Andhra Pradesh, Telangana, Kerala.
 
 Northeast India: Data sparse and variable — opportunity for CSR-driven monitoring initiatives.
 
+# Recommendation and Decision 
+
+**North India**
+States Covered: Delhi, Haryana, Uttar Pradesh, Punjab, Bihar, Himachal Pradesh
+AQI Range: 140–207 (Very High Pollution Levels)
+
+**Recommended Product Features**:
+
+Medical-grade HEPA H13/H14 filters capable of capturing PM2.5 and PM10 particles.
+
+Activated carbon filters to remove smoke, sulfur dioxide (SO₂), nitrogen dioxide (NO₂), and unpleasant odors.
+
+Real-time AQI display with LED indicators and mobile synchronization.
+
+Safety features including Child Lock and Auto Mode for family protection.
+
+High Clean Air Delivery Rate (CADR) designed for large urban rooms.
+
+**South India**
+States Covered: Karnataka, Tamil Nadu, Kerala, Telangana, Andhra Pradesh
+AQI Range: Mostly below 100 (Moderate to Clean Air)
+
+**Recommended Product Features:**
+
+UV-C sterilization technology for killing airborne bacteria and viruses.
+
+Anti-allergen filters targeting mold spores and dust mites.
+
+Silent/Night mode suitable for bedrooms and children’s rooms.
+
+Smart app control with WiFi connectivity, catering to tech-savvy urban households.
+
+Energy-efficient designs aligned with the region’s growing green electric vehicle (EV) ecosystem.
+
+**Eastern and Central India**
+ 
+States Covered: Odisha, West Bengal, Assam, Jharkhand, Chhattisgarh, Bihar
+AQI Range: 115–150 (Moderate to High Pollution)
+
+**Recommended Product Features:**
+
+Multi-layer filtration systems combining dust filters, HEPA, and activated charcoal.
+
+Low-maintenance designs featuring longer filter life and filter health indicators.
+
+Rugged build quality and stable power consumption for mixed rural and urban environments.
+
+Rural-specific models offering battery backup or solar-compatible options for areas with unreliable power.
+
+**West India**
+
+States Covered: Maharashtra, Gujarat, Rajasthan, Goa
+AQI Range: 100–130 (Urban High Pollution)
+
+**Recommended Product Features:**
+
+CO-specific filtration with carbon monoxide and volatile organic compound (VOC) sensors.
+
+Industrial-strength models suitable for kitchens, workshops, and clinics.
+
+Dual-mode operation controlling both pollution and odors.
+
+Sleek designs with wall-mount options ideal for space-constrained apartments.
+
+**North-East India**
+
+States Covered: Mizoram, Manipur, Meghalaya, Tripura, Nagaland, Sikkim, Arunachal Pradesh
+AQI Range: 47–90 (Mostly Clean Air)
+
+**Recommended Product Features:**
+
+Filtration optimized for smoke and VOCs typical of biomass cooking exposure.
+
+Compact and portable units suitable for smaller rooms.
+
+Low noise and low power consumption, ideal for remote or tier-3 households.
+
+Affordable Essential Series models targeting preventive care needs.
+
+**Ideal Air Purifier Product Features**
+
+For broad applicability across regions and user needs, an ideal air purifier should include:
+
+Pre-Filter: Captures large dust particles, hair, and pet dander.
+
+HEPA Filter (H13/H14): Removes 99.97% of PM2.5, PM10, allergens, and bacteria.
+
+Activated Carbon Filter: Absorbs VOCs, smoke, cooking odors, and harmful gases like CO and SO₂.
+
+Real-time AQI Monitoring: Color-coded LED and numeric display for easy air quality tracking.
+
+Silent Mode: Operates at less than 32 decibels for night-time use.
+
+Eco Mode: Reduces power consumption for energy efficiency.
+
+Auto Mode: Automatically adjusts fan speed based on AQI levels.
+
+Capable of killing airborne viruses, bacteria, and mold spores.
+
+Target Users: Ideal for households with children and elderly members, as well as institutional settings like hospitals and schools.
+
+Cost Considerations: Should be budget-friendly without compromising essential performance features
+
+# Conclusion 
+
+This analysis highlights the stark regional disparities in air quality across India, with North India facing very high pollution levels, while Southern and North-Eastern regions maintain comparatively cleaner air. The findings emphasize the need for tailored air purifier solutions that address specific regional pollution profiles and user requirements. Advanced filtration technologies like HEPA, activated carbon, and UV-C sterilization are essential to effectively combat particulate matter and harmful gases. Additionally, smart features such as real-time AQI monitoring and energy-efficient modes cater to evolving consumer preferences, especially in urban areas. The project underscores the importance of integrating environmental awareness with technological innovation to improve public health outcomes. Targeted interventions, informed product design, and increased public education will be critical to mitigating pollution-related risks and enhancing quality of life across India’s diverse regions.
+
+# References
+
+- Public perception on occupational exposure to air pollution in India” by Abinaya Sekar, George Kuttiparichel Varghese, and
+Ravi Varma [ https://doi.org/10.1177/10519815241305004 ]
+
+- Understanding public perceptions, attitudes, and awareness of air pollution and its effects on health” by Renju Chandran,
+Bindusree A.R., M.C. Sarath Chandran [ https://doi.org/10.1016/B978-0-443-23788-1.00013-0 ]
+
+- https://www.iqair.com/in-en/india?srsltid=AfmBOoq7KjEoX15R4FyOA9o9kRPrFxt5PgvmOp6zV9VHr-KrtcTlvxAk
+  
+- https://www.thehindu.com/news/cities/Delhi/90-citizens-aware-of-air-pollution-but-lack-awareness-of-causes-andimpact/article25528325.ece?utm_source
+
+- https://www.business-standard.com/india-news/air-pollution-related-terminologies-awareness-low-among-urbanpoor-study-124040700353_1.html?utm_source
+
+- https://www.indiaspend.com/80-of-indians-polled-in-17-cities-believe-air-pollution-affects-quality-of-life-new-study
+
+- https://www.drishtiias.com/daily-updates/daily-news-analysis/indias-progress-under-ncap?utm_source
