@@ -10,11 +10,11 @@ The objective of this project is to evaluate the market potential for a new air 
 
 - Identify cities and regions with the highest and most persistent air pollution levels.
 
-Analyze the correlation between air quality and pollution-related health outcomes.
+- Analyze the correlation between air quality and pollution-related health outcomes.
 
-Determine key pollutants and essential product features for targeted filtration.
+- Determine key pollutants and essential product features for targeted filtration.
 
-Assess consumer demand triggers based on pollution spikes and market trends.
+- Assess consumer demand triggers based on pollution spikes and market trends.
 
-Provide actionable insights through an interactive dashboard to guide product design, pricing, and marketing strategies for optimal market fit.
+- Provide actionable insights through an interactive dashboard to guide product design, pricing, and marketing strategies for optimal market fit.
 
